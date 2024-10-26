@@ -5,6 +5,7 @@ Public files for AllScan products, including schematics for all released version
 * ANF101 - Full-Duplex HT-Based AllStar Node
 * ANF200 - Full-Duplex Mobile-Radio AllStar Node
 * ANR100 - Radio-Less AllStar Node
-* ANR150 - Radio-Less AllStar Node using a Comms Speaker Chassis
+* ANR150 - Radio-Less AllStar Node using a Phone Patch Chassis
+* ANR200 - Radio-Less AllStar Node using a Comms Speaker Chassis
 * UCI120 - USB Communications Interface
 * URI100 - USB Radio Interface
